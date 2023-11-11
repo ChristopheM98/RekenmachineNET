@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A00be0duv7+2v8L0GZIQc72UjvcuwCvWvvpZBcY8V4wbmRQqnc+O8DPMSjqe/pldC8OPJ4TX6jMN2v7E6bqvEw==",
+  "success": true,
+  "projectFilePath": "C:\\Thomas More 3de jaar\\IT Challenges 3\\Opdracht 3 Github Actions\\Rekenmachine\\Rekenmachine\\Rekenmachine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,61 @@
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\bin\Debug\net6.0\appsettings.json
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.staticwebassets.runtime.json
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.exe
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.deps.json
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.runtimeconfig.json
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.dll
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.pdb
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.csproj.AssemblyReference.cache
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.AssemblyInfoInputs.cache
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.AssemblyInfo.cs
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.RazorAssemblyInfo.cache
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.RazorAssemblyInfo.cs
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\scopedcss\bundle\Rekenmachine.styles.css
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\scopedcss\projectbundle\Rekenmachine.bundle.scp.css
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.csproj.CopyComplete
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.dll
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\refint\Rekenmachine.dll
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.pdb
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.genruntimeconfig.cache
+C:\Users\u0157634\Documents\Repo\Rekenmachine\Rekenmachine\obj\Debug\net6.0\ref\Rekenmachine.dll
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\bin\Debug\net6.0\appsettings.Development.json
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\bin\Debug\net6.0\appsettings.json
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.staticwebassets.runtime.json
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.exe
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.deps.json
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.runtimeconfig.json
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.dll
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.pdb
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\bin\Debug\net6.0\nunit.framework.dll
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.csproj.AssemblyReference.cache
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.AssemblyInfoInputs.cache
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.AssemblyInfo.cs
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.MvcApplicationPartsAssemblyInfo.cache
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.RazorAssemblyInfo.cache
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.RazorAssemblyInfo.cs
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\staticwebassets\msbuild.Rekenmachine.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\staticwebassets\msbuild.build.Rekenmachine.props
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rekenmachine.props
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rekenmachine.props
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\scopedcss\bundle\Rekenmachine.styles.css
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\scopedcss\projectbundle\Rekenmachine.bundle.scp.css
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.csproj.CopyComplete
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.dll
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\refint\Rekenmachine.dll
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.pdb
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.genruntimeconfig.cache
+C:\Thomas More 3de jaar\IT Challenges 3\Opdracht 3 Github Actions\Rekenmachine\Rekenmachine\obj\Debug\net6.0\ref\Rekenmachine.dll
