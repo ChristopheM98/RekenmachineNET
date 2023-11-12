@@ -6,12 +6,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using NUnit.Framework;
+using Microsoft.AspNetCore.Routing;
 
 namespace Rekenmachine_tests.Controllers
 {
     [TestFixture]
     public class HomeControllerTests
     {
+        [Test]
         [TestCase(2, 3, "optellen", 5)]
         [TestCase(5, 3, "aftrekken", 2)]
         [TestCase(4, 5, "vermenigvuldigen", 20)]
@@ -44,6 +46,21 @@ namespace Rekenmachine_tests.Controllers
             Assert.That(resultaat.ViewData["OmgekeerdeNaam"], Is.EqualTo("pocoboR"));
         }
 
+        [Test]
+        public void BerekenBoete() 
+        {
+            // Arrange
+            var controller = new HomeController();
+            int snelheid = 55;
+
+            // Act
+            var resultaat = controller.BerekenBoete(snelheid) as ViewResult;
+            var boete = 125 + (25 * (snelheid - 50));
+
+            // Assert
+            Assert.That(resultaat, Is.Not.Null);
+            Assert.That(resultaat.ViewData["BerekenBoete"], Is.EqualTo($"Foei, u krijgt een boete van €{boete}"));
+        }
     }
     
 }
