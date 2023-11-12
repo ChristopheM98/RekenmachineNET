@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Bereken boete";
+}
+
+<div class="container">
+
+    <h1>Bereken boete</h1>
+
+    <div class="row">
+        <div class="col-md-12">
+
+            <form method="post" asp-action="BerekenBoete">
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="snelheid">Snelheid</label>
+                        <input type="number" name="snelheid" id="snelheid" required placeholder="Geef je snelheid in.">
+                    </div>
+                </div>
+
+                <div><input type="submit" value="Bereken de boete" /></div><br />
+            </form>
+
+        </div>
+    </div>
+
+    @if (ViewData["BerekenBoete"] != null)
+    {
+        <p>@ViewData["BerekenBoete"]</p>
+    }
+</div>

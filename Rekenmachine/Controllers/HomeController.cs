@@ -60,7 +60,33 @@ namespace Rekenmachine.Controllers
             return View();
         }
 
+        public IActionResult BerekenBoete() 
+        {
+            return View();
+        }
 
+        [HttpPost("BerekenBoete")]
+        public IActionResult BerekenBoete(int snelheid)
+        {
+            int boete = 125;
+
+            if (snelheid <= 50)
+            {
+                ViewData["BerekenBoete"] = "Proficiat, u bent één van de weinig die niet te hard rijdt!";
+            }
+            else
+            {
+                while (snelheid > 50)
+                {
+                    boete += 25;
+                    snelheid--;
+                }
+
+                ViewData["BerekenBoete"] = $"Foei, u krijgt een boete van €{boete}";
+            }
+
+            return View();
+        }
     }
 
 }
